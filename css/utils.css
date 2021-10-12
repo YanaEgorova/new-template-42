@@ -171,7 +171,7 @@ body.error-active .error__overlay {
   border: .5rem solid var(--main-text-color);
   color: var(--main-text-color);
   cursor: pointer;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   margin: 0 auto;
   font-family: var(--title-font);
   position: relative;
@@ -202,12 +202,6 @@ body.error-active .error__overlay {
 }
 }
 @media screen and (min-width: 1024px) {
- 
-.logo {
-  font-size: 3rem;
-}
-.text {
-  font-size: 2rem;
-}
+
 }
 
