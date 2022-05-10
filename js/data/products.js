@@ -4,6 +4,7 @@ export const products = [
         name: 'Sleep Mask',
         price: 6.96,
         image: './img/img1.png',
+        type: 'ss',
         description: [
             {
                 text: 'Natural Silk Sleep Mask, Super-Smooth and Soft Eye Mask with Adjustable Strap, Blindfold, Perfect Blocks Light, Pressure Free for A Full Night\'s Sleep.',
@@ -31,6 +32,7 @@ export const products = [
         name: 'Ironing Board',
         price: 29.99,
         image: './img/img2.png',
+        type: 'trial',
         description: [
             {
                 title: 'Ideal for Compact Spaces',
@@ -64,6 +66,7 @@ export const products = [
         name: 'Noise Machine',
         price: 64.90,
         image: './img/img3.png',
+        type: 'ss',
         description: [
             {
                 text: '2 speed options for adjustable tone and volume creates a personalized sound environment, excellently masking noise for better sleep.',
@@ -82,6 +85,7 @@ export const products = [
         name: 'Laser Rangefinders',
         price: 98.90,
         image: './img/img4.png',
+        type: 'ss',
         description: [
             {
                 text: 'The laser 1000 features an intuitive platform with angle compensation; perfect for bowhunters and range-day lovers. Range targets down to five yards out, with the ability to stretch out to 1,000 yards if need be.',
@@ -106,6 +110,7 @@ export const products = [
         name: 'Expandable Luggage',
         price: 119.98,
         image: './img/img5.png',
+        type: 'ss',
         description: [
             {
                 text: '21 inches  luggage maximizes your packing power and meets most carry on size restrictions for those traveling domestically and looking to stay light.',
@@ -133,6 +138,7 @@ export const products = [
         name: 'Security Safe',
         price: 148.00,
         image: './img/img6.png',
+        type: 'ss',
         description: [
             {
                 text: '1.8-cubic foot home safe for storing important documents, jewelry, and other valuable property.',
