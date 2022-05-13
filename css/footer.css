@@ -62,7 +62,7 @@
 .footer .item:not(:last-child) {
   margin-bottom: 1.5rem;
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1440px) {
   .footer .list {
     display: flex;
     justify-content: space-between;
@@ -74,13 +74,13 @@
     width: 100%;
   }
   .list-col .item {
-    margin-right: 10rem;
+    margin-right: 7rem;
   }
   .footer__block--df {
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
-    align-items: flex-end;
+    align-items: center;
   }
   .footer .text--mb, .footer__logo {
     margin-bottom: 0;
